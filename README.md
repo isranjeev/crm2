@@ -94,5 +94,4 @@ SuiteCRM is published under the AGPLv3 license.
 4. On the subsequent screen (accessible via "send_top.php"), the Customer Service Representative (CSR) will input the OTP code into the designated fields, as shared by the customer.
    Successful completion of the verification process hinges on a code match between the entered OTP and the corresponding record in our database table. In the event of a mismatch, the verification attempt will be unsuccessful and an accompanying error message will be displayed.
 
-5. 
 
